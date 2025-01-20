@@ -13,7 +13,7 @@ public class SwitchComBreak {
 		int nota = entrada.nextInt();
 		
 		switch(nota) {
-		case 10: case 9: 
+		case 10: case 9: //pode colocar juntos
 			conceito = "A";
 			break;
 		case 8: case 7: {

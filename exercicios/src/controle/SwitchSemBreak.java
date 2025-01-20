@@ -5,7 +5,7 @@ public class SwitchSemBreak {
 	public static void main(String[] args) {
 
 		String faixa = "marrom";
-
+		//sem o break executa todo os outros após entrar em um 
 		switch (faixa.toLowerCase()) {
 		case "preta":
 			System.out.println("Sei o Bassai-Dai...");
